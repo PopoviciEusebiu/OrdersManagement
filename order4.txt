@@ -1,0 +1,10 @@
+FACTURA COMANDA NR. 4
+--------------------------
+Client: 
+	Nume: Andrei
+	Varsta: 22
+	Email: andrei@gmail.com
+Adresa livrare: strada fericirii
+--------------------------
+Produse: lays x 5
+Total: 5 de bucati 

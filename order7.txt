@@ -1,0 +1,10 @@
+FACTURA COMANDA NR. 7
+--------------------------
+Client: 
+	Nume: Marian
+	Varsta: 34
+	Email: mary@
+Adresa livrare: strada yy
+--------------------------
+Produse: sare x 10
+Total: 10 de bucati 

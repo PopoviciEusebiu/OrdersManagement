@@ -1,0 +1,10 @@
+FACTURA COMANDA NR. 9
+--------------------------
+Client: 
+	Nume: Avb
+	Varsta: 33
+	Email: dsadas
+Adresa livrare: sfsafs
+--------------------------
+Produse: Masina x 10
+Total: 10 de bucati 
